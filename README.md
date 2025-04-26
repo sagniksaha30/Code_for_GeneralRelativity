@@ -4,13 +4,16 @@ Here's a list of the quantities that the code can currently compute:
 
 1. Raise/Lower Vector Indices as well as compute their magnitudes.
 2. Christoffel Symbols
-3. Covariant Derivatives (vectors/dual vectors only - will extend to tensors soon)
-4. Riemann Tensor
-5. Ricci Tensor
-6. Ricci Scalar
-7. Einstein Tensor
-8. Geodesic Equation 
-9. Extrinsic Curvature
-10. Expansion (Mean Extrinsic Curvature)
+3. Covariant Derivatives (vectors/dual vectors)
+4. Covariant Derivatives (Rank 2 tensors with both indices either up/down)
+5. Riemann Tensor
+6. Ricci Tensor
+7. Ricci Scalar
+8. Einstein Tensor
+9. Geodesic Equation 
+10. Extrinsic Curvature
+11. Expansion (Mean Extrinsic Curvature)
+12. Checking Killing Vectors (Killing's Equation)
+13. Checking Rank-2 Killing Tensors (Killing's Equation)
 
 **Note :** This is a work in progress - I will be adding more functionality to this code as and when needed. 
